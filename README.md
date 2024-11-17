@@ -26,3 +26,7 @@ This is where you put the code
 
 visit：[GitHub pages](www.github.com)————这种方式是内联链接
 
+- [x] use more
+- [ ] use github
+- [ ] use git
+
