@@ -5,3 +5,9 @@ What can I say😳😳😳
 there are others
 # Add
 I want to learn a lot of things
+
+| Rank | Languages     |
+|-----:|---------------|
+|     1|      C        |
+|     2|     Java      |
+|     3|       SQL     |
