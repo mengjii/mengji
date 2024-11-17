@@ -11,3 +11,8 @@ I want to learn a lot of things
 |     1|      C        |
 |     2|     Java      |
 |     3|       SQL     |
+#for example
+<details>
+  <summary>It's a style</summary>
+      I'm really trying to write a format
+</details>
