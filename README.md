@@ -14,5 +14,5 @@ I want to learn a lot of things
 #for example
 <details open>
   <summary>It's a style</summary>
-      I'm really trying to write a format
+      I'm really trying to write a format.Can be used to create toggle.
 </details>
