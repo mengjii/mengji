@@ -10,6 +10,7 @@ there are others
 
 | Rank | Languages     |
 |:----:|:-------------:|
+|     1|    markdown      |
 |     1|      C        |
 |     2|     Java      |
 |     3|       SQL     |
@@ -27,6 +28,8 @@ This is where you put the code
 visit：[GitHub pages](www.github.com)————这种方式是内联链接
 
 - [x] use more
+- [x] use markdown
 - [ ] use github
 - [ ] use git
 
+<p>The first language learned is markdown language, which can be used in less than 24 hours.
